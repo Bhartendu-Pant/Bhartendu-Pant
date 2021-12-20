@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhartendu-Pant
+- 👋 Hi, I’m @Bhartendu_Pant
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java , Python etc
 - 💞️ I’m looking to collaborate on Android Development
