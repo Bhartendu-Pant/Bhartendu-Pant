@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhartendu_Pant
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java , Python , c++ etc
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on Web Development projets
 - 📫 How to reach me bhartendupant809@gmail.com
 
 <!---
